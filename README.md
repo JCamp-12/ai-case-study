@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-* Cognition Labs / Devin AI
+* **Cognition Labs / Devin AI**
 
 * Scott Wu founded Cognition Labs in November 2023
 
