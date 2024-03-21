@@ -56,6 +56,6 @@
 
 * [Creators of Devin AI are genius competitive programmers?](https://www.youtube.com/watch?v=5eeVBd2qlWE)
 
-*
+* [Cognition Labs Blog](https://www.cognition-labs.com/blog-posts)
 
-*
+* [What is Devin AI](https://daily.dev/blog/what-is-devin-the-ai-software-engineer-everyone-is-talking-about)
