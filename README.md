@@ -16,11 +16,13 @@
 
 * As a groundbreaking AI software engineer, Devin, is designed to revolutionize software development through collaboration with humans.  It is designed to enhance productivity rather than replace.  Software and tech is quickly becoming part of every business and any company that is not is likely to be disrupted by ones that are.
 
-* While there is no specific information that I could find about the total addressable market The global software market size was valued at USD 583.47 billion in 2022 and is expected to grow at a compound annual growth rate (CAGR) of 11.5% from 2023 to 2030.  This to me feels low but I aw this quoted multiple places.  The market cap of Apple alone is $3 trillion dollars
+* While there is no specific information that I could find about the total addressable market specifically for Devin AI... The global software market size was valued at USD 583.47 billion in 2022 and is expected to grow at a compound annual growth rate (CAGR) of 11.5% from 2023 to 2030.  This to me feels low but I aw this quoted multiple places.  The market cap of Apple alone is $3 trillion dollars and there are 5 current trillion dollar companies all in tech.
 
 * There is likely to be a fierce competition to be part of the tooling of every software engineer at every company and get the per employee license cost there will be competiion from the likes of Microsoft/Github Co-Pilot or Open AI Chat GPT.  What makes Devin interesting is the skill level and size of the team.  AI is starting to allow smaller, highly skilled startups take on larger established players in tech like Google search to begin seeing increased competition and increasingly likely their own disruption.
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Finding the exact tooling Devin AI is built on is likely proprietary at this point and closely guarded.  It is likely fine tuned and RAG architecture along with way to reinforce learning.  From the Cognition Labs blog: We are an applied AI lab focused on reasoning.
+‍
+We’re building AI teammates with capabilities far beyond today’s existing AI tools. By solving reasoning, we can unlock new possibilities in a wide range of disciplines—code is just the beginning. We want to help people around the world turn their ideas into reality.
 
 ## Landscape
 
