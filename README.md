@@ -36,7 +36,7 @@ We’re building AI teammates with capabilities far beyond today’s existing AI
 
 * It is hard to quantify results at this point, there are impressive benchmarks that Devin is meeting: Devin was evaluated on SWE-bench, a challenging benchmark that asks agents to resolve real-world GitHub issues found in open source projects like Django and scikit-learn.
 
-  * Devin correctly resolves 13.86%* of the issues end-to-end, far exceeding the previous state-of-the-art of 1.96%. Even when given the exact files to edit, the best previous models can only resolve 4.80% of issues.
+  * > Devin correctly resolves 13.86%* of the issues end-to-end, far exceeding the previous state-of-the-art of 1.96%. Even when given the exact files to edit, the best previous models can only resolve 4.80% of issues.
 
 * Currently Devin is garnering a lot of attention, in a similar way that Chap GPT did upon release.
 
