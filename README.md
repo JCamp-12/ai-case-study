@@ -12,15 +12,13 @@
 
 * Most recently, Cognition has received a $21 million investment from Peter Thiel’s venture capital firm Founders Fund. Peter Thiel was the former CEO of PayPal and is the co-founder of Founders Fund, a San Francisco-based venture capital firm that invests in companies building revolutionary technologies. It has also received major support from other big names such as Patrick and John Collison, Elad Gil, Sarah Guo, Chris Re, Eric Glyman, and many more.
 
-
-
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
+* As a groundbreaking AI software engineer, Devin, is designed to revolutionize software development through collaboration with humans.  It is designed to enhance productivity rather than replace.  Software and tech is quickly becoming part of every business and any company that is not is likely to be disrupted by ones that are.
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+* While there is no specific information that I could find about the total addressable market The global software market size was valued at USD 583.47 billion in 2022 and is expected to grow at a compound annual growth rate (CAGR) of 11.5% from 2023 to 2030.  This to me feels low but I aw this quoted multiple places.  The market cap of Apple alone is $3 trillion dollars
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* There is likely to be a fierce competition to be part of the tooling of every software engineer at every company and get the per employee license cost there will be competiion from the likes of Microsoft/Github Co-Pilot or Open AI Chat GPT.  What makes Devin interesting is the skill level and size of the team.  AI is starting to allow smaller, highly skilled startups take on larger established players in tech like Google search to begin seeing increased competition and increasingly likely their own disruption.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
@@ -59,3 +57,6 @@
 * [Cognition Labs Blog](https://www.cognition-labs.com/blog-posts)
 
 * [What is Devin AI](https://daily.dev/blog/what-is-devin-the-ai-software-engineer-everyone-is-talking-about)
+
+* [Trillion-dollar companies: 5 most valuable tech giants](https://www.bankrate.com/investing/trillion-dollar-companies/#:~:text=The%20most%20valuable%20companies%20in,that%20consumers%20use%20every%20day.)
+
