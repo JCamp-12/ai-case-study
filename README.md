@@ -26,29 +26,27 @@ We’re building AI teammates with capabilities far beyond today’s existing AI
 
 ## Landscape
 
-* What field is the company in?
+* Business / Software
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+* The major recent trends in Business software the last 5 -10 years is Cloud Computing, AI/ML, Mobile Development, and blockchain.
 
-* What are the other major companies in this field?
+* The main competitor is likely the Open AI / Microsoft partnership along with Google and Facebook.
 
 ## Results
 
-* What has been the business impact of this company so far?
+* It is hard to quantify results at this point, there are impressive benchmarks that Devin is meeting: Devin was evaluated on SWE-bench, a challenging benchmark that asks agents to resolve real-world GitHub issues found in open source projects like Django and scikit-learn.
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+Devin correctly resolves 13.86%* of the issues end-to-end, far exceeding the previous state-of-the-art of 1.96%. Even when given the exact files to edit, the best previous models can only resolve 4.80% of issues.
 
-* How is your company performing relative to competitors in the same field?
+* Currently Devin is garnering a lot of attention, in a similar way that Chap GPT did upon release.
+
+* While Devin is currently only in early access and therefore hard to test it is garnering a significant amount of attention (I would describe it as positive and generating some fear it could become go beyond its promise to be a productivity enhancement and be a replacement for software engineers) due to its promise and the considerable talent behind the product.
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* Based on the ability of the product ot reason my recommendation would be to introduce consulting as a service, software engineering as a service, and looking to get into cyber security.
 
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+* These are services that every company needs and currently is heavily investing in.  The goal would be to continue to enhance productivity and to increase the effectiveness of consulting services and security in addition to software services.  Accenture has a market cap of $230 Billion, it is a small leap from reasoning in software to information technology and consulting.  The ability of AI to understand domain specific information technology seems likely, in addition to software development.
 
 ## Citations
 
