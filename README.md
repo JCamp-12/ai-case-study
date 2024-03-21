@@ -2,15 +2,17 @@
 
 ## Overview and Origin
 
-* Name of company
+* Cognition Labs / Devin AI
 
-* When was the company incorporated?
+* Scott Wu founded Cognition Labs in November 2023
 
-* Who are the founders of the company?
+* Scott Wu (CEO), Steven Hao (CTO), and Walden Yang (Chief Product Officer)
 
-* How did the idea for the company (or project) come about?
+* With Devin, the goal and aim is to have an AI "buddy" that can team up with real engineers. Devin can handle the day-to-day stuff, which lets engineers solve bigger, tougher problems.  It is labeled as AI as a software engineer.
 
-* How is the company funded? How much funding have they received?
+* Most recently, Cognition has received a $21 million investment from Peter Thiel’s venture capital firm Founders Fund. Peter Thiel was the former CEO of PayPal and is the co-founder of Founders Fund, a San Francisco-based venture capital firm that invests in companies building revolutionary technologies. It has also received major support from other big names such as Patrick and John Collison, Elad Gil, Sarah Guo, Chris Re, Eric Glyman, and many more.
+
+
 
 ## Business Activities
 
