@@ -44,9 +44,9 @@ We’re building AI teammates with capabilities far beyond today’s existing AI
 
 ## Recommendations
 
-* Based on the ability of the product ot reason my recommendation would be to introduce consulting as a service, software engineering as a service, and looking to get into cyber security.
+* Based on the ability of the product to reason my recommendation would be to introduce consulting as a service, software engineering as a service, and looking to get into cyber security.
 
-* These are services that every company needs and currently is heavily investing in.  The goal would be to continue to enhance productivity and to increase the effectiveness of consulting services and security in addition to software services.  Accenture has a market cap of $230 Billion, it is a small leap from reasoning in software to information technology and consulting.  The ability of AI to understand domain specific information technology seems likely, in addition to software development.
+* These are services that every company needs and currently is heavily investing in.  The goal would be to continue to enhance productivity and to increase the effectiveness of consulting services and security in addition to software engineering ai.  Accenture has a market cap of $230 Billion, it is a small leap from reasoning in software to information technology and consulting.  The ability of AI to understand domain specific information technology seems likely, and pairs wells in addition to software development.
 
 ## Citations
 
