@@ -53,3 +53,9 @@
 ## Citations
 
 * [Meet the Team Behind Devin AI](https://favtutor.com/articles/devin-ai-founder-team/#:~:text=Scott%20Wu%2C%20Founder%20and%20CEO,most%20skilled%20autonomous%20coding%20agent.&text=As%20a%20kid%2C%20he%20participated,in%20every%20one%20of%20them.)
+
+* [Creators of Devin AI are genius competitive programmers?](https://www.youtube.com/watch?v=5eeVBd2qlWE)
+
+*
+
+*
